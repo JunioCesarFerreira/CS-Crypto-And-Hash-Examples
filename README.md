@@ -1,5 +1,5 @@
 # CS-Crypto-And-Hash-Examples
-C sharp crypto, hash and conversions examples.
+C# crypto, hash and conversions examples.
 
 Este repositório contém alguns exemplos simples de uso de funções de hash e criptografia em C# e também um exemplo de conversões de strings.
 
