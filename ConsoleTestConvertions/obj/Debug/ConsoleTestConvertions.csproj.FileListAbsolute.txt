@@ -1,0 +1,14 @@
+C:\Users\Junio\source\repos\5-tests\ConsoleTestConvertions\bin\Debug\ConsoleTestConvertions.exe.config
+C:\Users\Junio\source\repos\5-tests\ConsoleTestConvertions\bin\Debug\ConsoleTestConvertions.exe
+C:\Users\Junio\source\repos\5-tests\ConsoleTestConvertions\bin\Debug\ConsoleTestConvertions.pdb
+C:\Users\Junio\source\repos\5-tests\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.csprojAssemblyReference.cache
+C:\Users\Junio\source\repos\5-tests\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.csproj.CoreCompileInputs.cache
+C:\Users\Junio\source\repos\5-tests\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.exe
+C:\Users\Junio\source\repos\5-tests\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.pdb
+C:\Users\jcf_s\source\git\Cryptol-Example\ConsoleTestConvertions\bin\Debug\ConsoleTestConvertions.exe.config
+C:\Users\jcf_s\source\git\Cryptol-Example\ConsoleTestConvertions\bin\Debug\ConsoleTestConvertions.exe
+C:\Users\jcf_s\source\git\Cryptol-Example\ConsoleTestConvertions\bin\Debug\ConsoleTestConvertions.pdb
+C:\Users\jcf_s\source\git\Cryptol-Example\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.csprojAssemblyReference.cache
+C:\Users\jcf_s\source\git\Cryptol-Example\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.csproj.CoreCompileInputs.cache
+C:\Users\jcf_s\source\git\Cryptol-Example\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.exe
+C:\Users\jcf_s\source\git\Cryptol-Example\ConsoleTestConvertions\obj\Debug\ConsoleTestConvertions.pdb

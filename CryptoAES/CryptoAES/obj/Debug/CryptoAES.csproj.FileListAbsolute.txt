@@ -1,0 +1,7 @@
+C:\Users\jcf_s\source\repos\CryptoAES\CryptoAES\bin\Debug\CryptoAES.exe.config
+C:\Users\jcf_s\source\repos\CryptoAES\CryptoAES\bin\Debug\CryptoAES.exe
+C:\Users\jcf_s\source\repos\CryptoAES\CryptoAES\bin\Debug\CryptoAES.pdb
+C:\Users\jcf_s\source\repos\CryptoAES\CryptoAES\obj\Debug\CryptoAES.csprojAssemblyReference.cache
+C:\Users\jcf_s\source\repos\CryptoAES\CryptoAES\obj\Debug\CryptoAES.csproj.CoreCompileInputs.cache
+C:\Users\jcf_s\source\repos\CryptoAES\CryptoAES\obj\Debug\CryptoAES.exe
+C:\Users\jcf_s\source\repos\CryptoAES\CryptoAES\obj\Debug\CryptoAES.pdb

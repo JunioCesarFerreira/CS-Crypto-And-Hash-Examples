@@ -1,0 +1,14 @@
+C:\Users\Junio\source\repos\CryptoDES\bin\Debug\CryptoDES.exe.config
+C:\Users\Junio\source\repos\CryptoDES\bin\Debug\CryptoDES.exe
+C:\Users\Junio\source\repos\CryptoDES\bin\Debug\CryptoDES.pdb
+C:\Users\Junio\source\repos\CryptoDES\obj\Debug\CryptoDES.csprojAssemblyReference.cache
+C:\Users\Junio\source\repos\CryptoDES\obj\Debug\CryptoDES.csproj.CoreCompileInputs.cache
+C:\Users\Junio\source\repos\CryptoDES\obj\Debug\CryptoDES.exe
+C:\Users\Junio\source\repos\CryptoDES\obj\Debug\CryptoDES.pdb
+C:\Users\jcf_s\source\git\CS-Crypto-And-Hash-Examples\CryptoDES\bin\Debug\CryptoDES.exe.config
+C:\Users\jcf_s\source\git\CS-Crypto-And-Hash-Examples\CryptoDES\bin\Debug\CryptoDES.exe
+C:\Users\jcf_s\source\git\CS-Crypto-And-Hash-Examples\CryptoDES\bin\Debug\CryptoDES.pdb
+C:\Users\jcf_s\source\git\CS-Crypto-And-Hash-Examples\CryptoDES\obj\Debug\CryptoDES.csprojAssemblyReference.cache
+C:\Users\jcf_s\source\git\CS-Crypto-And-Hash-Examples\CryptoDES\obj\Debug\CryptoDES.csproj.CoreCompileInputs.cache
+C:\Users\jcf_s\source\git\CS-Crypto-And-Hash-Examples\CryptoDES\obj\Debug\CryptoDES.exe
+C:\Users\jcf_s\source\git\CS-Crypto-And-Hash-Examples\CryptoDES\obj\Debug\CryptoDES.pdb

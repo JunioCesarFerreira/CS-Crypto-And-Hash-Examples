@@ -1,0 +1,6 @@
+<Cryptool>
+	<ListProcess>
+		<Process name="AES crypto" file="CryptoAES.exe"/>
+		<Process name="TripleDES crypto" file="CryptoDES.exe"/>
+	</ListProcess>
+</Cryptool>
